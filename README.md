@@ -3,6 +3,9 @@
 ### Hi there 👋
 ## Hi there 👋
 ---
+**두껍게**
+*기울임*
+~취소선~
 <!--
 **sunkim09/sunkim09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
