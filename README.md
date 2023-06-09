@@ -6,6 +6,11 @@
 **두껍게**<br>
 *기울임*<br>
 ~취소선~
+*1
+*2
+-1
+-2
+[네이버](https://www.naver.com)
 <!--
 **sunkim09/sunkim09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
